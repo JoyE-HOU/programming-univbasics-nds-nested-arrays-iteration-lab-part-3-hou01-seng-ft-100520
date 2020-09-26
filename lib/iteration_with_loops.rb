@@ -21,8 +21,12 @@ def join_nested_strings(src)
     
       
   end
+<<<<<<< HEAD
   strings_only.join(" ")
   
+=======
+  strings_only.concat.join
+>>>>>>> 38e11a58af08be7c3f9bd9af0c23cdf417149486
       
 end
   # src will be an Array of Arrays of Strings and Integers
